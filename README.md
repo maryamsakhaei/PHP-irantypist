@@ -1,0 +1,2 @@
+# irantypist
+A mini-project is about ordering text or a book for translation or typing. That the person can determine the type of text-translator and the duration himself. Then the user can see the history of their orders. The admin can also count the number of words and set the price accordingly. After the user confirms, in terms of time and price, the payment section will be passed, and after the payment and the final approval of the admin, a tracking code will be given to the user.
